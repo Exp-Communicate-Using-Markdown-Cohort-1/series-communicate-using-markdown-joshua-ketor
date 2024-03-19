@@ -16,3 +16,10 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 print(This is a multi-line code, line 1)
 print(This is line 2)
 ```
+- [ ] Turn on Github Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+- [x] Get admitted into the ALX SWE Program
+- [x] Learn more
+- [ ] Graduate whiles being eligible to be a Golf Fellow
